@@ -1,5 +1,5 @@
 {
-  "name": "rapsongs",
+  "name": "gatsby-theme-carbon-editor",
   "version": "1.24.2",
   "main": "index.js",
   "author": "vpicone <vp@vincepic.one> (@vpicone)",
@@ -72,5 +72,5 @@
   },
   "gitHead": "35c2f49bc84429d497f91908d355a8ac5dfa1ecc",
   "keywords": [],
-  "description": ""
+  "description": "A simplified version of the gatbsy-theme-carbon used for creating new pages without having to get technical."
 }
